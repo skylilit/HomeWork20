@@ -1,0 +1,43 @@
+H1 {
+      color: #edf0f1;
+      font-size: 200%;
+      font-family: Comic Sans MS, Comic Sans, cursive;
+      text-align: center;
+}
+P {
+      padding: 5px;
+      border: 2px solid rgb(150, 182, 185);
+      padding: 20px;
+      font-family: Comic Sans MS, Comic Sans, cursive;
+      font-size: 120%;
+      background-color: rgb(110, 153, 156);
+      color: #053a3a;
+}
+a {
+       color: rgb(31, 69, 104);
+        text-decoration: none;
+}
+a:hover {
+        color: rgb(165, 219, 216);
+   }
+.link {
+        color: rgb(115, 199, 192);
+          }
+        a:hover {
+    text-decoration: underline;
+}     
+.link:hover {
+        color: rgb(250, 248, 246);
+   }   
+.link {
+        font-size: 80%;
+}
+.link {
+    text-decoration: underline;
+}
+#testid {
+    color: rgb(131, 166, 170);
+}
+.round-img {
+    border-radius: 25px;
+}   
